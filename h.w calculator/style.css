@@ -1,0 +1,185 @@
+
+
+*{
+
+    margin: 0;
+    padding: 0;
+    background-color: rgb(71, 71, 71);
+    color: white;
+    box-sizing: border-box;
+    
+}
+
+/* html {
+    font-size: 8px;
+    height: 100vh;
+} */
+
+h2{
+    display: inline-block;
+    margin-right: 26rem;
+    font-size: 1.7rem;
+    padding-top: 0.5rem;
+    padding-left: 0.8rem;
+}
+
+#tab i{
+    color: white;
+    background-color: rgb(71, 71, 71);
+    /* border: none; */
+    font-size: 1.5rem;
+}
+#tab button{
+    border: none;
+    margin-left: 2.5rem;
+}
+
+h1{
+    display: inline-block;
+    font-size: 2.5rem;
+    padding-top: 1.5rem;
+    margin-right: 4rem;
+    margin-left: 2.7rem;
+}
+
+
+
+#sta i{
+    color: white;
+    background-color: rgb(71, 71, 71) ;
+    font-size: 1.7rem;
+}
+#sta button{
+    margin-left: 0.8rem;
+    border: none;
+}
+#sta #clock{
+    margin-left: 22.6rem;
+}
+
+
+
+#no h1{
+    margin-top: 3rem;
+    padding-top: 2rem;
+    padding-left: 45.1rem;
+    margin-left: 0rem;
+    border: 5px solid white;
+    text-align: center;
+    font-size: 4rem;
+}
+
+
+
+#mc button{
+    border: none;
+    font-size: 1.8rem;
+    margin-left: 4.7rem; 
+    margin-top: 1.2rem;
+    margin-bottom: 1.5rem;
+}
+
+/* .numbers button{
+    
+    background-color: rgb(59, 58, 58);
+    color: white;
+   font-size: 5rem;
+   margin-left:3rem ;
+   display: inline-block;
+   flex-direction: row;
+   justify-content: space-evenly;
+   align-items: center;
+} */
+
+
+.numbers button{
+    margin: 0.3rem 0.3rem;
+    background-color: rgb(0, 0, 0);
+    height: 6.4rem;
+    width: 11.4rem;
+
+    
+}
+.no1{
+    display: flex;
+    justify-content: space-between;
+    
+    
+
+}
+.no2{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.no3{
+    display: flex;
+    justify-content: space-between;
+
+}
+.no4{
+    display: flex;
+    justify-content: space-between;
+
+}
+.no5{
+    display: flex;
+    justify-content: space-between;
+
+}
+.no6{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.no1 button{
+    font-size: 2.5rem;
+    background-color:rgb(39, 39, 39);
+    
+    
+}
+.no2 button{
+    font-size: 2.5rem;
+    background-color:rgb(39, 39, 39);
+    
+}
+.no3 button{
+    font-size: 3rem;
+    
+}
+.no4 button{
+    font-size: 3rem;
+    
+}
+.no5 button{
+    font-size: 3rem;
+    
+}
+.no6 button{
+    font-size: 3rem;
+    
+}
+
+#box12 button{
+    background-color:rgb(39, 39, 39);
+
+}
+#box16 button{
+    background-color:rgb(39, 39, 39);
+
+}
+#box20 button{
+    background-color:rgb(39, 39, 39);
+
+}
+#box24 button{
+    background-color:rgb(2, 78, 109);
+
+}
+
+
+
+
+
+
